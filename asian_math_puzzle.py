@@ -1,5 +1,6 @@
 ## Author: Andre Leitao
 ## version 0.1
+##Problem: http://entertainment.ie/life/Can-you-solve-this-NEW-maths-problem-thats-stumping-everyone/365205.htm
 
 import random 
 x = 0
